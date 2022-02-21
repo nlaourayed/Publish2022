@@ -21,7 +21,7 @@
   "UnityGameID": "4441107",
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "MAX",
-  "InterType": "ADMOB",
+  "InterType": "UNITY",
   "NativeType": "ADMOB",
   "RewardType": "ADMOB",
   "IsAdmobON": true,
