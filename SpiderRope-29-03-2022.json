@@ -23,7 +23,7 @@
   "BannerType": "MAX",
   "InterType": "UNITY",
   "NativeType": "ADMOB",
-  "RewardType": "ADMOB",
+  "RewardType": "UNITY",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
